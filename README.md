@@ -5,18 +5,12 @@
 - Vue 2.6.12
 - PostgreSQL 11.6
 - Nginx
-<br>
-<br>
-<br>
 # Development
 ## laradock
 - PHP
 - PostgreSQL
 - Nginx
 - MailHog
-<br>
-<br>
-<br>
 # Features
 - ユーザー新規登録
 - ユーザーログイン
